@@ -8,6 +8,7 @@ Cara melihat website ini adalah dengan cara sebagai berikut:
 4. Ekstrak zip (kalau unduh lewat zip)
 5. Buka direktori hasil ekstraksi lewat terminal
 6. Jalankan perintah `python manage.py runserver`
+7. Buka peramban, masukkan alamat http://localhost:8000/polls
 
 Mohon bimbingannya untuk saran perbaikan.
 
